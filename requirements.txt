@@ -1,0 +1,4 @@
+streamlit==0.88.0
+selenium==3.141.0
+webdriver_manager==3.4.2
+langchain==0.4.0
